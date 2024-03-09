@@ -23,6 +23,7 @@ django-rest-auth==0.9.5
 django-updown-ratings==1.0.1
 django-widget-tweaks==1.4.3
 djangorestframework==3.13.1
+djoser==2.2.2
 dpkt==1.9.8
 filelock==3.9.0
 flake8==4.0.1
