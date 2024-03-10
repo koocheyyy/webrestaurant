@@ -26,7 +26,7 @@ SECRET_KEY = '___SECRET____KEY___'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app', 'localhost', 'webrestaurant-a77d0226622e.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
